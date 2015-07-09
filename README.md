@@ -1,2 +1,2 @@
 # Machine-Learning
-Solutions to Andres Ng's machine learning course (Coursera)
+Solutions to Andrew Ng's machine learning course (Coursera)
